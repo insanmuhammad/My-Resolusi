@@ -4,3 +4,4 @@ My Resolusi
 - belajar basic javascript
 - belajar design web
 - belajar oop
+- belajar struktur data
