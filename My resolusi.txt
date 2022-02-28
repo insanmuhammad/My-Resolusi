@@ -3,3 +3,4 @@ My Resolusi
 - belajar github
 - belajar basic javascript
 - belajar design web
+- belajar oop
