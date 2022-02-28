@@ -1,4 +1,5 @@
 My Resolusi
 - membuat web sederhana
 - belajar github
-- belajar basic javascript 
+- belajar basic javascript
+- belajar design web
